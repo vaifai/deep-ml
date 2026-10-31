@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:18:34.034Z",
+  "generated_at": "2026-10-31T19:19:39.199Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -163,6 +163,19 @@
       "path": "problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul",
       "first_solved_at": "2026-10-31T19:18:33.320Z",
       "last_pushed_at": "2026-10-31T19:18:33.320Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:1275": {
+      "kind": "problem",
+      "id": "1275",
+      "title": "Tensor Puzzle: First-Order Difference",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1275",
+      "path": "problems/1275-tensor-puzzle-first-order-difference",
+      "first_solved_at": "2026-10-31T19:19:38.457Z",
+      "last_pushed_at": "2026-10-31T19:19:38.457Z",
       "language": "python",
       "lines": 12
     }
