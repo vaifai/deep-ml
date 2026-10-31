@@ -7,5 +7,5 @@ def triu_ones(n: int) -> torch.Tensor:
     for i in range(n):
         for j in range(n):
             if(j>=i):
-                tensor[(i,j)]=1.
+                tensor[i,j]=1.
     return tensor

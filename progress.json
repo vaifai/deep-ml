@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:58:54.323Z",
+  "generated_at": "2026-10-31T07:59:09.227Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -149,7 +149,7 @@
       "url": "https://www.deep-ml.com/problems/1273",
       "path": "problems/1273-tensor-puzzle-upper-triangular-ones-matrix",
       "first_solved_at": "2026-10-31T07:58:39.465Z",
-      "last_pushed_at": "2026-10-31T07:58:53.530Z",
+      "last_pushed_at": "2026-10-31T07:59:08.491Z",
       "language": "python",
       "lines": 12
     }
