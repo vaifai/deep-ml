@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 24 problems · 0 labs · 2 math
+**27** solved · 25 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-10-31 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-11-01 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
 | [Tensor Puzzle: Scatter-Add into Bins](https://www.deep-ml.com/problems/1283) | medium | 2026-11-01 | [solution](problems/1283-tensor-puzzle-scatter-add-into-bins) |
+| [Tensor Puzzle: Sequence Mask by Lengths](https://www.deep-ml.com/problems/1281) | medium | 2026-11-01 | [solution](problems/1281-tensor-puzzle-sequence-mask-by-lengths) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-11-01 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
 
 ## Math
