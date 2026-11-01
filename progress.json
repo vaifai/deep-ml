@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:22:41.030Z",
+  "generated_at": "2026-11-01T08:14:01.702Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -217,6 +217,19 @@
       "last_pushed_at": "2026-11-01T06:22:29.772Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1279": {
+      "kind": "problem",
+      "id": "1279",
+      "title": "Tensor Puzzle: Compress — Keep True Positions",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1279",
+      "path": "problems/1279-tensor-puzzle-compress-keep-true-positions",
+      "first_solved_at": "2026-11-01T08:14:00.739Z",
+      "last_pushed_at": "2026-11-01T08:14:00.739Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
