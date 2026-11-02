@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:08:29.151Z",
+  "generated_at": "2026-11-02T07:11:09.262Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -408,6 +408,19 @@
       "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
       "first_solved_at": "2026-11-02T07:08:28.295Z",
       "last_pushed_at": "2026-11-02T07:08:28.295Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-11-02T07:11:08.315Z",
+      "last_pushed_at": "2026-11-02T07:11:08.315Z",
       "language": "python",
       "lines": 20
     }
