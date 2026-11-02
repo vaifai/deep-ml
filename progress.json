@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:32:14.525Z",
+  "generated_at": "2026-11-02T06:59:09.340Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -358,6 +358,19 @@
       "path": "math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant",
       "first_solved_at": "2026-11-02T06:32:13.451Z",
       "last_pushed_at": "2026-11-02T06:32:13.451Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-11-02T06:58:58.672Z",
+      "last_pushed_at": "2026-11-02T06:58:58.672Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
