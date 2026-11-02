@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 32 problems · 0 labs · 3 math
+**36** solved · 33 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-11-02 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-11-02 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-11-02 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-11-02 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-02 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-30 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
