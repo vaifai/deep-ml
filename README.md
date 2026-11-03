@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 41 problems · 0 labs · 6 math
+**48** solved · 41 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-30 | [solution](math/0018-descriptive-statistics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-30 | [solution](math/0030-ml-workflow-basics) |
 | [What the Bias Term Buys: Affine Maps, the Bias Gradient and When It Is Redundant](https://www.deep-ml.com/math-problems/277) | easy | 2026-11-02 | [solution](math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant) |
+| [Backprop for a One-Hidden-Layer ReLU Softmax MLP in Matrix Form](https://www.deep-ml.com/math-problems/471) | medium | 2026-11-03 | [solution](math/0471-backprop-for-a-one-hidden-layer-relu-softmax-mlp-in-matrix-form) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-11-02 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-03 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-02 | [solution](math/0003-neural-network-derivatives) |
