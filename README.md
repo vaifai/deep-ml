@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 43 problems · 0 labs · 8 math
+**52** solved · 44 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-11-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-04 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jacobians by Forward Mode and by Reverse Mode](https://www.deep-ml.com/problems/1835) | medium | 2026-11-04 | [solution](problems/1835-jacobians-by-forward-mode-and-by-reverse-mode) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-11-01 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-11-01 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
 | [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-10-31 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
