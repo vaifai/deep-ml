@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:57:44.857Z",
+  "generated_at": "2026-11-04T07:04:26.464Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -610,6 +610,17 @@
       "path": "math/0471-backprop-for-a-one-hidden-layer-relu-softmax-mlp-in-matrix-form",
       "first_solved_at": "2026-11-03T17:57:33.756Z",
       "last_pushed_at": "2026-11-03T17:57:33.756Z"
+    },
+    "math:470": {
+      "kind": "math",
+      "id": "470",
+      "title": "Forward Mode versus Reverse Mode: What a Jacobian Costs",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/470",
+      "path": "math/0470-forward-mode-versus-reverse-mode-what-a-jacobian-costs",
+      "first_solved_at": "2026-11-04T07:04:15.346Z",
+      "last_pushed_at": "2026-11-04T07:04:15.346Z"
     }
   }
 }
