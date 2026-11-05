@@ -59,7 +59,10 @@ class Dense(Layer):
 
 	def backward_pass(self, accum_grad):
 		# Compute gradients, update weights if trainable, return grad w.r.t. input
-		return accum_grad @ self.W.T
+		backward = accum_grad @ self.W.T
+		self.optimizer.update(self.W, self.X.T @ accum_grad)
+		self.optimizer.update(self.w0, accum_grad)
+		return backward
 
 	def output_shape(self):
 		# Return output shape tuple
