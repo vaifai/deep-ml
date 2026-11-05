@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:55:29.843Z",
+  "generated_at": "2026-11-05T15:30:17.250Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -673,6 +673,19 @@
       "last_pushed_at": "2026-11-05T07:55:28.909Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2026-11-05T15:30:16.510Z",
+      "last_pushed_at": "2026-11-05T15:30:16.510Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
