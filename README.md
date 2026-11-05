@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 44 problems · 0 labs · 8 math
+**53** solved · 45 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-10-31 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-11-02 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-11-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-05 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-04 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jacobians by Forward Mode and by Reverse Mode](https://www.deep-ml.com/problems/1835) | medium | 2026-11-04 | [solution](problems/1835-jacobians-by-forward-mode-and-by-reverse-mode) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
