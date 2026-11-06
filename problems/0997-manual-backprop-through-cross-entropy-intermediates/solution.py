@@ -38,7 +38,9 @@ def manual_cross_entropy_backward(logits: np.ndarray, y: np.ndarray) -> dict:
         axis=1,
         keepdims=True
         ) + 0.0
-    dlogits = dnorm_logits
+    dlogits = dnorm_logits.copy()
+    max_indices = np.argmax(logits, axis=1)
+    dlogits[np.arange(n), max_indices] += dlogit_maxes[:, 0]
     return {
         "dlogprobs": dlogprobs,
         "dprobs": dprobs,
