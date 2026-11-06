@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:59:20.448Z",
+  "generated_at": "2026-11-06T19:45:55.276Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -725,6 +725,19 @@
       "last_pushed_at": "2026-11-06T17:59:16.791Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:998": {
+      "kind": "problem",
+      "id": "998",
+      "title": "Reduce Gradient Across Broadcasted Dimensions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/998",
+      "path": "problems/0998-reduce-gradient-across-broadcasted-dimensions",
+      "first_solved_at": "2026-11-06T19:45:54.562Z",
+      "last_pushed_at": "2026-11-06T19:45:54.562Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

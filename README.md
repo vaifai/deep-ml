@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 49 problems · 0 labs · 8 math
+**58** solved · 50 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-02 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-30 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Reduce Gradient Across Broadcasted Dimensions](https://www.deep-ml.com/problems/998) | easy | 2026-11-06 | [solution](problems/0998-reduce-gradient-across-broadcasted-dimensions) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-02 | [solution](problems/0024-single-neuron) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-11-01 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-10-31 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
