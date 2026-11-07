@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 52 problems · 0 labs · 8 math
+**61** solved · 53 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-11-02 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-11-05 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-11-05 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
+| [Backward Pass of Row-wise Max Operation](https://www.deep-ml.com/problems/1001) | medium | 2026-11-07 | [solution](problems/1001-backward-pass-of-row-wise-max-operation) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-11-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-05 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-04 | [solution](problems/0202-jacobian-matrix-calculation) |
