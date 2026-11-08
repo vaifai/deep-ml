@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 53 problems · 0 labs · 8 math
+**62** solved · 53 problems · 1 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-11-05 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-11-06 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-11-01 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-11-08 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 
 ## Math
 
