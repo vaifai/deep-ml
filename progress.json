@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:06:00.300Z",
+  "generated_at": "2026-11-10T18:12:51.720Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -812,6 +812,19 @@
       "path": "math/0129-perceptron-convergence-bound",
       "first_solved_at": "2026-11-10T18:05:59.492Z",
       "last_pushed_at": "2026-11-10T18:05:59.492Z"
+    },
+    "problem:289": {
+      "kind": "problem",
+      "id": "289",
+      "title": "Implement Xavier/Glorot Weight Initialization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/289",
+      "path": "problems/0289-implement-xavier-glorot-weight-initialization",
+      "first_solved_at": "2026-11-10T18:12:50.533Z",
+      "last_pushed_at": "2026-11-10T18:12:50.533Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
