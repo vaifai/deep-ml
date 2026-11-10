@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 53 problems · 1 labs · 9 math
+**64** solved · 53 problems · 1 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Forward Mode versus Reverse Mode: What a Jacobian Costs](https://www.deep-ml.com/math-problems/470) | medium | 2026-11-04 | [solution](math/0470-forward-mode-versus-reverse-mode-what-a-jacobian-costs) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-03 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-02 | [solution](math/0003-neural-network-derivatives) |
+| [Perceptron Convergence Bound](https://www.deep-ml.com/math-problems/129) | medium | 2026-11-10 | [solution](math/0129-perceptron-convergence-bound) |
 | [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-11-09 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 
 ---
