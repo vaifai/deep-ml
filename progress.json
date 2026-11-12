@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:10:36.667Z",
+  "generated_at": "2026-11-12T17:54:14.396Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -864,6 +864,19 @@
       "last_pushed_at": "2026-11-10T19:10:17.091Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1837": {
+      "kind": "problem",
+      "id": "1837",
+      "title": "LSUV: Orthonormal Init plus Layer-Sequential Unit Variance",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1837",
+      "path": "problems/1837-lsuv-orthonormal-init-plus-layer-sequential-unit-variance",
+      "first_solved_at": "2026-11-12T17:54:13.449Z",
+      "last_pushed_at": "2026-11-12T17:54:13.449Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
