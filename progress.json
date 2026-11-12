@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:28:21.436Z",
+  "generated_at": "2026-11-12T20:53:41.817Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -903,6 +903,19 @@
       "last_pushed_at": "2026-11-12T18:28:20.735Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1996": {
+      "kind": "problem",
+      "id": "1996",
+      "title": "Activation Health Check: Saturated and Dead tanh Units",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1996",
+      "path": "problems/1996-activation-health-check-saturated-and-dead-tanh-units",
+      "first_solved_at": "2026-11-12T20:53:40.374Z",
+      "last_pushed_at": "2026-11-12T20:53:40.374Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
