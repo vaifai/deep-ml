@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:53:41.817Z",
+  "generated_at": "2026-11-13T08:01:32.185Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -916,6 +916,19 @@
       "last_pushed_at": "2026-11-12T20:53:40.374Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1997": {
+      "kind": "problem",
+      "id": "1997",
+      "title": "Update-to-Data Ratio: Which Layers Train Too Fast?",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1997",
+      "path": "problems/1997-update-to-data-ratio-which-layers-train-too-fast",
+      "first_solved_at": "2026-11-13T08:01:31.471Z",
+      "last_pushed_at": "2026-11-13T08:01:31.471Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
