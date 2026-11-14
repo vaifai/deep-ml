@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 62 problems · 2 labs · 10 math
+**75** solved · 62 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-14 | [solution](labs/0009-design-your-own-activation-function) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-11-08 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-11-14 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
 
