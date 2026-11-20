@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 69 problems · 3 labs · 10 math
+**83** solved · 70 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-30 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2026-11-02 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-11-02 | [solution](problems/0147-gelu-activation-function) |
+| [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-11-20 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-11-10 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-02 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-11-02 | [solution](problems/0156-implement-swiglu-activation-function) |
