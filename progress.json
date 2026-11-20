@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:06:22.218Z",
+  "generated_at": "2026-11-20T19:10:47.198Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -1069,9 +1069,9 @@
       "url": "https://www.deep-ml.com/problems/1222",
       "path": "problems/1222-gradient-of-a-square-with-autograd",
       "first_solved_at": "2026-11-20T19:06:21.369Z",
-      "last_pushed_at": "2026-11-20T19:06:21.369Z",
+      "last_pushed_at": "2026-11-20T19:10:46.353Z",
       "language": "python",
-      "lines": 14
+      "lines": 17
     }
   }
 }

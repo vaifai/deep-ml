@@ -10,4 +10,7 @@ def grad_of_square(x_val):
         float: gradient of x**2 w.r.t. x at x_val.
     """
     # TODO: create tensor, compute y = x**2, backward, return grad
-    return 2*x_val
+    x = torch.tensor(float(x_val), requires_grad=True)
+    y = x**2
+    y.backward()
+    return x.grad.item()
