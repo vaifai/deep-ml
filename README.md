@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 68 problems · 3 labs · 10 math
+**82** solved · 69 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Activation Health Check: Saturated and Dead tanh Units](https://www.deep-ml.com/problems/1996) | easy | 2026-11-12 | [solution](problems/1996-activation-health-check-saturated-and-dead-tanh-units) |
+| [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-11-20 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Backward Pass of Tanh Using Cached Output](https://www.deep-ml.com/problems/999) | easy | 2026-11-06 | [solution](problems/0999-backward-pass-of-tanh-using-cached-output) |
 | [Backward Pass of Tensor Reshape](https://www.deep-ml.com/problems/1000) | easy | 2026-11-06 | [solution](problems/1000-backward-pass-of-tensor-reshape) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-30 | [solution](problems/0030-batch-iterator-for-dataset) |
