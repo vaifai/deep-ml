@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:10:47.198Z",
+  "generated_at": "2026-11-20T19:12:17.790Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -1072,6 +1072,19 @@
       "last_pushed_at": "2026-11-20T19:10:46.353Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-11-20T19:12:17.118Z",
+      "last_pushed_at": "2026-11-20T19:12:17.118Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
