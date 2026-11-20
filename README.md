@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 65 problems · 3 labs · 10 math
+**79** solved · 66 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backward Pass of Tensor Reshape](https://www.deep-ml.com/problems/1000) | easy | 2026-11-06 | [solution](problems/1000-backward-pass-of-tensor-reshape) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-30 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-12 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-20 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-20 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-11-02 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-30 | [solution](problems/0078-descriptive-statistics-calculator) |
