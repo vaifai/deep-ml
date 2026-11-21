@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 76 problems · 3 labs · 10 math
+**90** solved · 77 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,6 +85,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-11-01 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
 | [Tensor Puzzle: Scatter-Add into Bins](https://www.deep-ml.com/problems/1283) | medium | 2026-11-01 | [solution](problems/1283-tensor-puzzle-scatter-add-into-bins) |
 | [Tensor Puzzle: Sequence Mask by Lengths](https://www.deep-ml.com/problems/1281) | medium | 2026-11-01 | [solution](problems/1281-tensor-puzzle-sequence-mask-by-lengths) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-21 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-11-05 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-11-06 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-11-01 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
