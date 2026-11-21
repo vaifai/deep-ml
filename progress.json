@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:36:50.558Z",
+  "generated_at": "2026-11-21T07:14:20.244Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -1098,6 +1098,19 @@
       "last_pushed_at": "2026-11-20T19:36:49.850Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:898": {
+      "kind": "problem",
+      "id": "898",
+      "title": "Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/898",
+      "path": "problems/0898-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-11-21T07:14:19.405Z",
+      "last_pushed_at": "2026-11-21T07:14:19.405Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
