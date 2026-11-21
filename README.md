@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**88** solved · 75 problems · 3 labs · 10 math
+**89** solved · 76 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-20 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-11-20 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-11-18 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-11-21 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-02 | [solution](problems/0024-single-neuron) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-11-01 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-10-31 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
