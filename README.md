@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 78 problems · 3 labs · 10 math
+**92** solved · 79 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-04 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jacobians by Forward Mode and by Reverse Mode](https://www.deep-ml.com/problems/1835) | medium | 2026-11-04 | [solution](problems/1835-jacobians-by-forward-mode-and-by-reverse-mode) |
 | [LSUV: Orthonormal Init plus Layer-Sequential Unit Variance](https://www.deep-ml.com/problems/1837) | medium | 2026-11-12 | [solution](problems/1837-lsuv-orthonormal-init-plus-layer-sequential-unit-variance) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-11-21 | [solution](problems/1219-one-training-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-11-01 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-11-01 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
