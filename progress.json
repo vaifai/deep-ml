@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:24:46.257Z",
+  "generated_at": "2026-11-26T19:19:51.521Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -1254,6 +1254,19 @@
       "last_pushed_at": "2026-11-25T17:24:45.313Z",
       "language": "python",
       "lines": 22
+    },
+    "lab:1": {
+      "kind": "lab",
+      "id": "1",
+      "title": "MNIST: Pytorch DataLoader",
+      "difficulty": "medium",
+      "category": "Data Pipelines",
+      "url": "https://www.deep-ml.com/labs/1",
+      "path": "labs/0001-mnist-pytorch-dataloader",
+      "first_solved_at": "2026-11-26T19:19:50.797Z",
+      "last_pushed_at": "2026-11-26T19:19:50.797Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
