@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 85 problems · 4 labs · 10 math
+**100** solved · 85 problems · 5 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -104,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-14 | [solution](labs/0009-design-your-own-activation-function) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-11-26 | [solution](labs/0001-mnist-pytorch-dataloader) |
+| [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-11-27 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-11-08 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-11-14 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 

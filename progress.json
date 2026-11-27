@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:19:51.521Z",
+  "generated_at": "2026-11-27T07:18:35.583Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -1267,6 +1267,19 @@
       "last_pushed_at": "2026-11-26T19:19:50.797Z",
       "language": "python",
       "lines": 16
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-11-27T07:18:34.632Z",
+      "last_pushed_at": "2026-11-27T07:18:34.632Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
